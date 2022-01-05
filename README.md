@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @agstatz
-- 👀 I’m interested in full stack development, cloud solutions, artificial intelligence.
+- 👀 I’m interested in full stack development, cloud, artificial intelligence, and blockchain.
 - 🌱 I’m currently learning how to create an electron application.
 - 📫 reach me at agstatz@gmail.com
 
