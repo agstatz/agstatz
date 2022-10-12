@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @agstatz
-- 👀 I’m interested in full stack development, cloud, artificial intelligence, and blockchain.
+- Learning about Google Cloud Platform and Cloud Computing
+- 👀 I’m interested in full stack development, cloud, and artificial intelligence.
 - 📫 reach me at agstatz@gmail.com
 
 <!---
