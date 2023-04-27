@@ -1,6 +1,8 @@
 # About Me:
-🏢 I am a software engineer based out of Chicago. I have a background in cloud technologies, databases, and frontend experience. Currently, I primarily work in AWS with Python and PostgreSQL, as well as with Java/Maven. In my free time I'm interested in Artificial Intelligence.<br>
-🔭 I'm currently working on a personal chess project, and working a lot with Python and Java<br>🌱 I'm currently learning Maven<br>💬 Ask me about Purdue University, Python, Java, Deloitte
+- 🏢 I am a software engineer based out of Chicago. I have a background in cloud technologies, databases, and frontend experience. Currently, I primarily work in AWS with Python and PostgreSQL, as well as with Java/Maven. In my free time I'm interested in Artificial Intelligence.<br>
+- 🔭 I'm currently working on a personal chess project, and working a lot with Python and Java
+- 🌱 I'm currently learning Maven
+- 💬 Ask me about Purdue University, Python, Java, Deloitte
 
 # Tech Stack:
 - Cloud Platforms: AWS, Google Cloud Platform certified
